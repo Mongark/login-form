@@ -39,4 +39,14 @@
 .SubmitForm {
   width: 30%;
   margin-top: 3px;
+
+  border: 0;
+  padding: 6px;
+
+  background-color: lightgray;
+}
+
+.SubmitForm:hover {
+  background-color: #aaaaaa;
+  cursor: pointer;
 }
