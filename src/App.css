@@ -20,12 +20,14 @@
 }
 
 .FormTitle {
+  text-align: center;
+
   margin: 0;
-  margin-bottom: 4%;
+  margin-bottom: 8%;
 }
 
 .FormField {
-  width: 42%;
+  width: 100%;
   padding: 0 0;
   margin: 0;
   margin-bottom: 10px;
@@ -41,12 +43,14 @@
   margin-top: 3px;
 
   border: 0;
+  border-radius: 4px;
   padding: 6px;
 
-  background-color: lightgray;
+  background-color: #6C0BA9;
 }
 
 .SubmitForm:hover {
-  background-color: #aaaaaa;
+  background-color: #880ED4;
   cursor: pointer;
 }
+
