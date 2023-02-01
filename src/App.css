@@ -6,7 +6,7 @@
 
   height: 100vh;
 
-  background-color: slateblue;
+  background-color: #B24BF3;
 }
 
 .LoginForm {
@@ -14,7 +14,7 @@
   height: auto;
 
   border-radius: 12px;
-  padding: 2%;
+  padding: 3%;
 
   background-color: white;
 }
@@ -27,25 +27,28 @@
 }
 
 .FormField {
-  width: 100%;
-  padding: 0 0;
+  width: 96%;
+  padding: 5 0;
   margin: 0;
   margin-bottom: 10px;
 }
 
 .FormText {
+  color: #555555;
+
   padding: 0;
   margin: 0;
 }
 
 .SubmitForm {
-  width: 30%;
-  margin-top: 3px;
-
+  width: 100%;
   border: 0;
   border-radius: 4px;
+
+  margin-top: 3px;
   padding: 6px;
 
+  color: white;
   background-color: #6C0BA9;
 }
 

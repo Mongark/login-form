@@ -12,14 +12,14 @@ function App() {
           <h4 className="FormText">
             Email
           </h4>
-          <input className="FormField" />
+          <input type="email" className="FormField" />
         </div>
 
         <div>
           <h4 className="FormText">
             Password
           </h4>
-          <input className="FormField" />
+          <input type="password" className="FormField" />
         </div>
 
         <div>
